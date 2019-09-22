@@ -1,0 +1,50 @@
+
+/*whole page*/
+* {
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.madRapper {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    }
+
+    header {width:100%;
+    }
+
+
+/*div in header-contains my name*/
+
+
+.corral {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+            nav {
+                  width: 100%;
+                  box-sizing: border-box;
+                  line-height: 1.5;
+                  font-family: 'Lato', sans-serif;
+                  font-weight: 300;
+                  margin: 0;
+                  padding: 0;            }
+
+
+
+                  header nav ul {
+                    height: 84px;
+                    background-color: rgb(216, 172, 172);
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-evenly;
+                }
+    

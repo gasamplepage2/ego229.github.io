@@ -1,0 +1,107 @@
+
+/*whole page*/
+* {box-sizing: border-box;
+    line-height: 1.5;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 4px;
+    
+    
+}
+    
+
+
+.madRapper {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    }
+
+   
+
+/*div in header-contains my name*/
+
+header {display:flex;
+align-content: flex-start;
+align-items: center;
+justify-content: space-evenly;
+background-color: blanchedalmond;
+width: 100%;
+
+
+}
+
+
+.corral {
+    width: 60%;
+    background-color:black;
+    display:flex;
+   
+    align-content: flex-start;
+
+  
+    
+}
+
+            nav {display: flex;
+                
+                justify-content: space-evenly;
+             
+                width: 100%;
+                  }
+
+
+                 ul {
+                    display:flex;
+                    flex-direction: row;
+                    align-content: flex-start;
+                    justify-content: space-evenly;
+                    color:whitesmoke;
+                    text-decoration-line: underline;
+                     list-style-type: none;
+                    padding: 0; }
+
+
+
+                   
+                    
+                    
+    .list{width: 100%;}
+        
+         
+
+ .meatAnePo{ 
+    margin: 25px 0;
+    width:100%;
+
+
+
+ }   
+
+ main {
+    position: relative;
+    top:-280px;
+
+} 
+aside {
+    width: 23.3%;
+    
+    position: relative;
+    left: 75%;
+    background-color: gray;
+    margin-left:15px;
+    border-radius: 2%;
+    
+}
+
+article{background-color: wheat;
+width: 75%;}
+
+img {border-radius: 103%;}
+
+button{
+
+margin-right: 25px;
+
+}
